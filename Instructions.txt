@@ -1,0 +1,22 @@
+How to work in git branch ?
+
+If we want to check on which branch we are working 
+	==>> git branch
+
+
+How to create & switch to other branch
+	==>> git checkout -b <new-branch> 	(checkout means switch)
+	 =>> git checkout -b updateProfile
+
+document.
+	. is member selection operator
+object.member
+document.getElementByID()
+
+OPERATORS
++ = addition operator
+- = substraction operator
+* = multiplication operator
+/ = division operator
+. = member selection operator
+= = assignment operator
